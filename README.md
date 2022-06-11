@@ -9,4 +9,4 @@ Bunun da tek yolu öykünmedir. Geçmişi ve gelecekteki gelişmeleri bir araya 
 
 EN--
 A project with high desktop GUI and game/graphics skills, aimed at driver compatibility with general systems. I hope to combine it with the Aros project later on. As it is known, Amiga attracted attention with its superior skills at a time when computers were diverse. We set out to achieve this goal by utilizing all the capabilities of x64 architecture to emulate that time and that progressive build. The bottleneck in such attempts is the lack of hardware drivers. Backward compatibility is a problem in itself. Motorola 68x and Intel x86 architecture. The only way to do this is by emulation. We are dedicated to bringing together the past and future developments.
-![9CF5A5D064D84203B53F62FD1ABAB259](https://user-images.githubusercontent.com/76571345/172186058-f05e7930-1307-4cc1-9fc3-c0cdea068d55.jpg)
+![workbenchscreen](https://user-images.githubusercontent.com/76571345/173181762-6213a24d-3c76-4f00-8e7b-76063ca10b5d.jpg)
